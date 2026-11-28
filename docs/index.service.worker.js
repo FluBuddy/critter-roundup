@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795872941|12607259';
+const CACHE_VERSION = '1795877619|10808812';
 /** @type {string} */
 const CACHE_PREFIX = 'Critter Roundup-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
